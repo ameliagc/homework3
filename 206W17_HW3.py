@@ -5,7 +5,7 @@ import re
 ## COMMENT WITH:
 ## Name: Amelia Cacchione
 ## Your section day/time: Friday 1-2pm
-## Any names of people you worked with on this assignment:
+## Any names of people you worked with on this assignment: Mauli helped at office hours!
 
 #####################
 
